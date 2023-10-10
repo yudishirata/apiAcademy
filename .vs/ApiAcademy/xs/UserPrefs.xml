@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{DB4BFE7D-5782-4C8E-91C5-480D9A3E93FE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yudi.jolondek/Desktop/Academy/API Iatec Academy/ApiAcademy/Controllers/HomeController.cs" relfile="Controllers/HomeController.cs" line="20" column="1" />
+      <Breakpoint file="/Users/yudi.jolondek/Desktop/Academy/API Iatec Academy/ApiAcademy/Controllers/HomeController.cs" relfile="Controllers/HomeController.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="2" />
+      <File FileName="Controllers/HomeController.cs" Line="31" Column="20" />
+      <File FileName="Properties/launchSettings.json" Line="14" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiAcademy" expanded="True">
+            <Node name="ApiAcademy" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ApiAcademy PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
